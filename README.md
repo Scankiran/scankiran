@@ -6,7 +6,7 @@
   
 <p align="left"> <a href="https://twitter.com/saidcankiran" target="blank"><img src="https://img.shields.io/twitter/follow/saidcankiran?logo=twitter&style=for-the-badge" alt="saidcankiran" /></a> </p>  
   
-- 🔭 I’m currently working on Emlakjet with Appcent
+- 🔭 I’m currently working on **Emlakjet with Appcent**
   
 - 🌱 I’m currently learning **Tuist and Sprite Kit**  
   
