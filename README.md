@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **s.cankiran@hotmail.com**  
   
-- 📄 Know about my experiences [www.saidcankiran.tech](www.saidcankiran.tech)  
+- 📄 Know about my experiences [saidcankiran.tech](https://saidcankiran.tech)  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
