@@ -1,16 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Said</h1>  
-<h3 align="center">iOS Developer and Student from Antalya - Turkey</h3>  
+<h1 align="center">Hi 👋🏼, I'm Said</h1>  
+<h3 align="center">iOS Developer from Antalya - Turkey</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scankiran&label=Profile%20views&color=0e75b6&style=flat" alt="scankiran" /> </p>  
   
 <p align="left"> <a href="https://twitter.com/saidcankiran" target="blank"><img src="https://img.shields.io/twitter/follow/saidcankiran?logo=twitter&style=for-the-badge" alt="saidcankiran" /></a> </p>  
   
-- 🔭 I’m currently working on **Emlakjet with Appcent**
+- 🔭 I’m currently working on **Trendyol**
   
-- 🌱 I’m currently learning **Tuist and Sprite Kit**  
+- 🌱 I’m currently learning **Sprite Kit**  
   
-- 💬 Ask me about **iOS Development, Senior Project for CSE**  
+- 💬 Ask me about **iOS Development, CSE**  
   
 - 📫 How to reach me **s.cankiran@hotmail.com**  
   
